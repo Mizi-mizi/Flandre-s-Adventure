@@ -18,5 +18,5 @@
 ## Developer
 * [Mizi](https://github.com/Mizi-mizi)
 * [ChestNutICE](https://github.com/ChestNutICE)
-* Evil_Dragon
+* [RiugaSekai](https://github.com/RiugaSekai)
 
