@@ -16,7 +16,7 @@
 ## Progress
 
 ## Developer
-<p>[Mizi](https://github.com/Mizi-mizi)</p>
-<p>[ChestNutICE](https://github.com/ChestNutICE)</p>
-<p> Evil_Dragon</p>
+* [Mizi](https://github.com/Mizi-mizi)
+* [ChestNutICE](https://github.com/ChestNutICE)
+* Evil_Dragon
 
