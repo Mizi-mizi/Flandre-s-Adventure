@@ -27,7 +27,7 @@ More and more cute Tachie on the way...
 ## Progress
 
 
-## Apr 23, 2025 
+### Apr 23, 2025 
 
 Creating folder for game design.
 
