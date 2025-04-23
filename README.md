@@ -1,21 +1,42 @@
 ## Flandre-s-Adventure
-<p>Probably an individual game in progress. </p>
-<p>Extends from Touhou Project.</p>
-<p>In this game, you will be able to control Flandre Scarlet, a vampire been prisoned for almost 500 years.</p>
-<p>That day, she broke the basement that always confines her. </p>
-<p>She went out, embracing the noble world.</p>
-<p>Everything she met on her exploration, its fate is decided by you. </p>
-<p>Be friendly or simply destroy them? </p>
-<p>Different choices will largely impact the game's process and ending. </p>
+
+Probably an individual game in progress. 
+
+Extends from Touhou Project.
+
+In this game, you will be able to control Flandre Scarlet, a vampire been prisoned for almost 500 years.
+
+That day, she broke the basement that always confines her.
+
+She went out, embracing the noble world.
+
+Everything she met on her exploration, its fate is decided by you.
+
+Be friendly or simply destroy them? 
+
+Different choices will largely impact the game's process and ending. 
 
 ## Game Play
-<p>For now, it might be a rpg game, with several customized Mechanics, which makes it unique.</p>
-<p>The user might be able to interact with all kinds of objects in the game. </p>
-<p>More and more cute Tachie on the way...</p>
+
+For now, it might be a rpg game, with several customized Mechanics, which makes it unique.
+
+The user might be able to interact with all kinds of objects in the game. 
+
+More and more cute Tachie on the way...
 
 ## Progress
 
-## Developer
+
+## Apr 23, 2025 
+
+Creating folder for game design.
+
+[Here is the document link]([https://docs.google.com/document/d/1caQMa2p7lmuhFXuZ8i6gtcsIYXXTQMlFpn9O92BQ06s/edit?usp=sharing](https://drive.google.com/drive/folders/1NZgnZ5LVk2sGXkyfDMUeDiGlo7bA8YZF?usp=drive_link)) 
+
+> Permission may be required. For access, please reach out at [m5du@ucsd.edu](mailto:m5du@ucsd.edu)
+
+### Developer
+
 * [Mizi](https://github.com/Mizi-mizi)
 * [ChestNutICE](https://github.com/ChestNutICE)
 * [RiugaSekai](https://github.com/RiugaSekai)
