@@ -31,7 +31,7 @@ More and more cute Tachie on the way...
 
 Creating folder for game design.
 
-[Here is the document link]([https://docs.google.com/document/d/1caQMa2p7lmuhFXuZ8i6gtcsIYXXTQMlFpn9O92BQ06s/edit?usp=sharing](https://drive.google.com/drive/folders/1NZgnZ5LVk2sGXkyfDMUeDiGlo7bA8YZF?usp=drive_link)) 
+Click [HERE](https://drive.google.com/drive/folders/1NZgnZ5LVk2sGXkyfDMUeDiGlo7bA8YZF?usp=drive_link) to access... 
 
 > Permission may be required. For access, please reach out at [m5du@ucsd.edu](mailto:m5du@ucsd.edu)
 
