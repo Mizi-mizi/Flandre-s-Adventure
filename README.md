@@ -35,7 +35,7 @@ Click [HERE](https://drive.google.com/drive/folders/1NZgnZ5LVk2sGXkyfDMUeDiGlo7b
 
 > Permission may be required. For access, please reach out at [m5du@ucsd.edu](mailto:m5du@ucsd.edu)
 
-### Developer
+## Developer
 
 * [Mizi](https://github.com/Mizi-mizi)
 * [ChestNutICE](https://github.com/ChestNutICE)
